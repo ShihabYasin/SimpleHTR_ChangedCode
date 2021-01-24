@@ -1,5 +1,7 @@
-# SimpleHTR_ChangedCode
-SimpleHTR_ChangedCode
+# Human Text Recognition
 
-Data Augmentation Idea. 
-for SimpleHTR
+
+Data Augmentation, text pre-processing etc. utility added.
+
+
+Original Repo: https://github.com/githubharald/SimpleHTR
